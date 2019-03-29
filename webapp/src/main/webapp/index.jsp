@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+<h1> Hello, Testing CI/CD pipeline thru Path1!!! </h1>
 
